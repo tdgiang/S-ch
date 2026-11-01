@@ -7,12 +7,12 @@ Bản dịch tiếng Việt của «高性价比人生指南» (HowToLiveBetter)
 - Bản gốc: «高性价比人生指南» – https://github.com/eternity4719/HowToLiveBetter
 - Dịch theo phiên bản commit `e2605d3e2242bd6216c9255192b8a8957a08c55a` (21/10/2026).
 - Nội dung gốc phát hành theo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Bản dịch này cũng phát hành theo CC BY 4.0.
-- Thay đổi so với bản gốc: dịch sang tiếng Việt, bỏ link "về mục lục" đầu chương, thêm ghi chú phạm vi áp dụng (luật và chính sách theo Trung Quốc).
+- Thay đổi so với bản gốc: dịch sang tiếng Việt, bỏ link "về mục lục" đầu chương, thêm ghi chú phạm vi áp dụng (luật và chính sách theo Trung Quốc). Tên văn bản pháp luật, tên thuốc và một số thuật ngữ cần phân biệt được giữ chữ Hán gốc trong ngoặc.
 
 ## Cấu trúc
 
 - `index.html` – toàn bộ web (mục lục và trang đọc chương).
-- `chapters.json` – danh sách 34 chương, `done: true` là chương đã dịch.
+- `chapters.json` – danh sách 34 chương (đã dịch đủ 34), `done: true` là chương đã dịch.
 - `chapters/NN.md` – nội dung chương đã dịch.
 
 ## Thêm chương mới
